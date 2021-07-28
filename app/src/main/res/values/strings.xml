@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">KotlinDemo</string>
+    <string name="add_new_city">Click here to add new city</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="add_city">Add City</string>
+    <string name="enter_city_name">Enter City Name</string>
+    <string name="sunrise">SUNRISE</string>
+    <string name="sunset">SUNSET</string>
+    <string name="weather_forecast">Weather Forecast</string>
+</resources>
