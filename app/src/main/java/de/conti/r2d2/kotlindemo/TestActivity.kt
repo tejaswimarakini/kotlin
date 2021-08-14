@@ -16,7 +16,4 @@ class TestActivity : AppCompatActivity() {
 
     }
 
-    override fun onRestart() {
-        super.onRestart()
-    }
 }

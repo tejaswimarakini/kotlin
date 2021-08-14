@@ -7,7 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.Toast
 import androidx.lifecycle.ViewModelProvider
-import com.google.android.material.bottomsheet.BottomSheetDialogFragment;
+import com.google.android.material.bottomsheet.BottomSheetDialogFragment
 import de.conti.r2d2.kotlindemo.R
 import de.conti.r2d2.kotlindemo.databinding.BottomSheetDialogBinding
 import de.conti.r2d2.kotlindemo.viewmodel.WeatherViewModel
@@ -45,7 +45,4 @@ class BottomSheetDialog : BottomSheetDialogFragment() {
         return view
     }
 
-    override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
-        super.onViewCreated(view, savedInstanceState)
-    }
 }
