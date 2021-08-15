@@ -27,7 +27,6 @@ import java.io.File
 
 class MainActivity : AppCompatActivity(), WeatherListAdapter.OnItemClickListener {
 
-    //Test Commit
 
     lateinit var binding: MainLayoutBinding
     lateinit var viewModel: WeatherViewModel
